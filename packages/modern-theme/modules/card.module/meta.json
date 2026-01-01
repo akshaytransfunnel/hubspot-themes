@@ -1,16 +1,20 @@
 {
   "label": "Card",
-  "css_assets": [],
-  "external_js": [],
   "global": false,
+
+  "dnd_enabled": true,
+
   "host_template_types": ["PAGE"],
+  "is_available_for_new_content": true,
+
+  "categories": ["body_content"],
   "icon": "../../images/module-icons/info-circle-solid.svg",
+  "preview_path": "images/modern-card.png",
+
+  "css_assets": [],
   "js_assets": [],
+  "external_js": [],
   "other_assets": [],
   "smart_type": "NOT_SMART",
-  "tags": [],
-  "is_available_for_new_content": true,
-  "categories": [
-    "body_content"
-  ]
+  "tags": []
 }
